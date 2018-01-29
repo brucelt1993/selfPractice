@@ -1,4 +1,4 @@
-package com.bruce.structure02;
+package com.bruce.structure01;
 
 public class BaseTest {
     /**
